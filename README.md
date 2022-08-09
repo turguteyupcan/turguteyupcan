@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ODTU Teknokent - ATOM](https://atom.org.tr/)
 
-- 🌱 I’m currently learning **.Net Core, Unity**
+- 🌱 I’m currently learning **Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
