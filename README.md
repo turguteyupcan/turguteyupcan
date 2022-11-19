@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyüp Can</h1>
 <h3 align="center">A Computer Engineer from Ankara/Turkey</h3>
 
-- 🔭 I’m currently working on [ODTU Teknokent - reo-tek](https://www.reo-tek.com/)
+- 🔭 I’m currently working on [ODTU Teknokent - gamegine](http://gameginegames.com/)
 
 - 🌱 I’m currently learning **Unity**
 
