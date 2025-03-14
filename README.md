@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyüp Can</h1>
 <h3 align="center">A Computer Engineer from Ankara/Turkey</h3>
 
-- 🔭 I’m currently working on [ODTU Teknokent - gamegine](http://gameginegames.com/)
-
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently developing in **Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
